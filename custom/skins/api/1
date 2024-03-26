@@ -1,42 +1,34 @@
 [
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/aot.png",
-        "name": "AOT",
-        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png"
+        "name": "AOT"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/demon%20slayer.png",
-        "name": "Demon Slayer",
-        "tag": ""
+        "name": "Demon Slayer"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/minions.png",
-        "name": "Minions",
-        "tag": ""
+        "name": "Minions"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/naruto.png",
-        "name": "Naruto",
-        "tag": ""
+        "name": "Naruto"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/one%20piece.png",
-        "name": "One piece",
-        "tag": ""
+        "name": "One piece"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/monster.png",
-        "name": "Monster",
-        "tag": ""
+        "name": "Monster"
     },
     {
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "Custom",
-        "tag": ""
+        "name": "Custom"
     },
     {
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "TikTroll",
-        "tag": ""
+        "name": "TikTroll"
     }
 ]
