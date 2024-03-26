@@ -4,16 +4,16 @@
         "name": "AOT"
     },
     {
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/naruto.png",
+        "name": "Naruto"
+    },
+    {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/demon%20slayer.png",
         "name": "Demon Slayer"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/minions.png",
         "name": "Minions"
-    },
-    {
-        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/naruto.png",
-        "name": "Naruto"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/one%20piece.png",
