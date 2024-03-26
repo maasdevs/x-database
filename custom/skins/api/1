@@ -12,12 +12,12 @@
         "name": "Demon Slayer"
     },
     {
-        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/minions.png",
-        "name": "Minions"
-    },
-    {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/one%20piece.png",
         "name": "One piece"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/minions.png",
+        "name": "Minions"
     },
     {
         "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/monster.png",
