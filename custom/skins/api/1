@@ -1,42 +1,37 @@
 [
     {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/aot.png",
         "name": "AOT",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png"
     },
     {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "Configs",
-        "tag": ""
-    },
-    {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "Custom",
-        "tag": ""
-    },
-    {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/demon%20slayer.png",
         "name": "Demon Slayer",
         "tag": ""
     },
     {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/minions.png",
         "name": "Minions",
+        "tag": ""
+    }
+    {
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/naruto.png",
+        "name": "Naruto",
         "tag": ""
     },
     {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/one%20piece.png",
+        "name": "One piece",
+        "tag": ""
+    },
+    {
+        "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/skins/thumbnails/monster.png",
         "name": "Monster",
         "tag": ""
     },
     {
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "Naruto",
-        "tag": ""
-    },
-    {
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
-        "name": "One piece",
+        "name": "Custom",
         "tag": ""
     },
     {
